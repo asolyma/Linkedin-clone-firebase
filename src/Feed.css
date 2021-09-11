@@ -16,7 +16,7 @@
   display: flex;
   padding: 10px;
   color: gray;
-  padding: left 15px;
+  padding-left: 15px;
 }
 .feed__input > form {
   display: flex;
